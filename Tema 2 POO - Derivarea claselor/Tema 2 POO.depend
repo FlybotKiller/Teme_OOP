@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1683828918 source:c:\users\denis\documents\codeblocks projects\tema 2 poo\alerta.cpp
+	<iostream>
+	"alerta.h"
+
+1683828472 source:c:\users\denis\documents\codeblocks projects\tema 2 poo\main.cpp
+	<iostream>
+	"alerta.h"
+	"mesaj.h"
+
+1683828730 c:\users\denis\documents\codeblocks projects\tema 2 poo\alerta.h
+	"mesaj.h"
+
+1683828599 c:\users\denis\documents\codeblocks projects\tema 2 poo\mesaj.h
+
+1683828599 source:c:\users\denis\documents\codeblocks projects\tema 2 poo\mesaj.cpp
+	<iostream>
+	"mesaj.h"
+

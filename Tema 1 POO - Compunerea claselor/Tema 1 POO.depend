@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1680713424 source:c:\users\denis\documents\codeblocks projects\tema 1 poo\pereche.cpp
+	<iostream>
+	"pereche.h"
+
+1681210205 c:\users\denis\documents\codeblocks projects\tema 1 poo\pereche.h
+
+1681212174 source:c:\users\denis\documents\codeblocks projects\tema 1 poo\rational.cpp
+	<iostream>
+	"rational.h"
+
+1681212174 c:\users\denis\documents\codeblocks projects\tema 1 poo\rational.h
+	"pereche.h"
+	<cmath>
+
+1681211145 source:c:\users\denis\documents\codeblocks projects\tema 1 poo\main.cpp
+	<iostream>
+	"pereche.h"
+	"rational.h"
+
